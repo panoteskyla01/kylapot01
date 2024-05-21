@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>Lingking Navigation; TCP</Title>
+	<head>
+	<body>
+	<hr>
+		<hl id="hello">Example Cafe</hl>
+	<nav>
+		<p> This page covers the following topics;</p>
+			<ul>
+				<li><a href="#URL </a></li>
+				<li><a href="#SourceAnchors"Source Anchors</a></li>
+				<li><a href="#Distanationanchors">Destintion Anchors</a>

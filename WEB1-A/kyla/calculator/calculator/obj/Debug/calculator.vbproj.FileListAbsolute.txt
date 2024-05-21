@@ -1,0 +1,11 @@
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.frCalculator.resources
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Acer23\Documents\ALBARILLO-WEB 3\calculator\calculator\obj\Debug\calculator.Form2.resources
