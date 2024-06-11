@@ -1,0 +1,33 @@
+<html>
+	<head>
+	<body>
+			<title> DIV ELEMENT </title>
+	</head>
+	<body>
+		<div style="background-color:blue">
+			<h1>EUTHENICS</h1>
+			<p>examines the rational justification for our moral  freedom, on responsibility and on justice
+		</div>
+		<div style="background-color:white">
+			<h1>WEB1-fundamentals of website development</h1>
+			<p>the first stage of the World Wide Web evolution  Earlier, there were only a few content creator
+		</div>
+		<div style="background-color:green">
+			<h1>GE4-purposive Communacation</h1>
+			<p>Purposive Communication is about enhancing your writing, speaking, and presenting yourself to different audiences
+		</div>
+		<div style="background-color:red">
+			<h1>GE ElEC 1-living in the ITE ERA</h1> 
+			<P>General Education (GE) courses teach essential university-level skills and introduce fundamental ideas in arts, humanities, social sciences, and natural sciences.
+		</div>
+		<div style="background-color:violet">
+			<h1>PATHFIT 2- Exercise based fitness</h1>
+			<p> Frequency: refers to the frequency of exercise undertaken or how often you exercise. Intensity: refers to the intensity of exercise undertaken or how hard you exercise
+		</div>
+		<div style="background-color:yellow>
+			<h1 style="background-color:green">NSTP 2-literacy training service 2</h1>
+			<p> As provided in the law, the National Service Training Program (NSTP) is a program aimed at enhancing civic consciousness and defense preparedness in the youth by developing 
+		</div>
+
+	</body>
+</html>
